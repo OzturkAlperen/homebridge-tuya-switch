@@ -23,7 +23,7 @@ To use this plugin, follow the steps below:
 
 3) Add your device's parameters to your ```config.json``` file, then reload Homebridge.
 
-You can check out the [configuration example](https://github.com/Alperen-Ozturk/homebridge-tuya-switch/config-example.MD) for parameters you should set.
+You can check out the [configuration example](https://github.com/Alperen-Ozturk/homebridge-tuya-switch/blob/master/config-example.MD) for parameters you should set.
 
 **To get ID and Key** Watch [this](https://www.youtube.com/watch?v=oq0JL_wicKg) video. 
 
