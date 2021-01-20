@@ -6,7 +6,7 @@ The configuration parameters to enable your devices would need to be added to `p
     "platforms": [
         ...
         {
-            "platform": "Tuya Switch",
+            "platform": "TuyaLan",
             "devices": [
                 {
                     "name": "SwitchExample",

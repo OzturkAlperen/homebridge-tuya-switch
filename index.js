@@ -4,7 +4,7 @@ const TuyaDiscovery = require('./lib/TuyaDiscovery');
 const SwitchAccessory = require('./lib/SwitchAccessory');
 
 const PLUGIN_NAME = 'homebridge-tuya-switch';
-const PLATFORM_NAME = 'Tuya Switch';
+const PLATFORM_NAME = 'TuyaLan';
 
 const CLASS_DEF = {
     switch: SwitchAccessory
