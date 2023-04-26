@@ -14,7 +14,7 @@ The configuration parameters to enable your devices would need to be added to `p
                     "manufacturer": "ManufacturerExample",
                     "model": "ModelExample",
                     "id": "00000000000000000000",
-                    "key": "0000000000000000"
+                    "key": "0000000000000000",
                     "switchCount": 0
                 }
             ]
